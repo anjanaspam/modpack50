@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="isai" label="Isai" language="en" table="tab1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>isai</element>
+            <help/>
+            <hint/>
+            <label>Isai</label>
+            <language>en</language>
+            <name>tab1</name>
+            <plural>Isais</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 21:18:09</sys_created_on>
+            <sys_id>e8b6d88d5333101071a3ddeeff7b129a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Isai</sys_name>
+            <sys_package display_value="glob5" source="6626908d5333101071a3ddeeff7b12d9">6626908d5333101071a3ddeeff7b12d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="glob6">3f36148d5333101071a3ddeeff7b12b0</sys_scope>
+            <sys_update_name>sys_documentation_tab1_isai_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 21:20:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="glob6">3f36148d5333101071a3ddeeff7b12b0</claim_owner_scope>
+        <claim_timestamp>1750f3c84850000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_tab1_isai_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>glob6</previous_claim_name>
+        <previous_claim_scope>3f36148d5333101071a3ddeeff7b12b0</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 21:20:25</sys_created_on>
+        <sys_id>3937dc8d5333101071a3ddeeff7b12d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 21:20:25</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="glob6">3f36148d5333101071a3ddeeff7b12b0</claim_owner_scope>
+        <claim_timestamp>1750f3c84700000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_tab1_isai_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>glob5</previous_claim_name>
+        <previous_claim_scope>6626908d5333101071a3ddeeff7b12d9</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 21:20:25</sys_created_on>
+        <sys_id>f937dc8d5333101071a3ddeeff7b12d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 21:20:25</sys_updated_on>
+    </sys_claim>
+</record_update>
